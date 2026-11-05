@@ -101,3 +101,8 @@ Then ask the agent to make the episode from `spec/lines.tsv`. It has these tools
 - **Who speaks.** Annalea and Jessyka don't speak in the film. Their public replies appear as screenshots.
 - **Nous Research** runs the Hermes Agent Plugin Hackathon: entries are due 5 PM EST on Nov 11, 2026. Nous Research hasn't seen
   or endorsed this repo or the film.
+
+## License
+
+[MIT](LICENSE). The screenshots in `prompt/` and in the cards are of other people's public posts, included for the test;
+they remain theirs.
