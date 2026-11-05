@@ -1,6 +1,5 @@
 name: future-radio
 version: 0.1.0
-license: MIT
 description: "Future Radio, script to screen: seven tools that turn a script into an episode, and an acceptance test that checks it against a spec."
 author: Leo Guinan
 provides_tools:
